@@ -94,7 +94,10 @@ header a:active,.ROLL a:active,.results:active
 }
 
 
-
+footer a
+{
+	color: #FFFFFF;
+}
 
 footer a:hover
 {
